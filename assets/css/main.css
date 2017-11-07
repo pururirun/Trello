@@ -1,0 +1,42 @@
+body{
+  margin: 0 auto;
+  background-image: url(../img/trellowallpaper.png);
+  background-size: 100%;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+header{
+  position: fixed;
+  text-align: center;
+  width: 100%;
+  background: #fff;
+  -webkit-box-shadow: 2px 2px 10px #228aad;
+
+}
+
+header img{
+  width: 8em;
+}
+
+nav{
+  padding-top: 50px;
+}
+
+h1{
+  margin-left: 20px;
+  color: white;
+}
+
+.container{
+  margin-left: 20px;
+}
+
+.input_delete{
+  border: none;
+  background: #aff5ff;
+}
+
+.boton_guardar{
+  margin-left: 10px;
+
+}
