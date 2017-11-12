@@ -11,7 +11,6 @@ header{
   width: 100%;
   background: #fff;
   -webkit-box-shadow: 2px 2px 10px #228aad;
-
 }
 
 header img{
@@ -27,16 +26,48 @@ h1{
   color: white;
 }
 
-.container{
-  margin-left: 20px;
-}
+/*Sección 2*/
 
-.input_delete{
+#btn_principal{
   border: none;
-  background: #aff5ff;
+  border-radius: 3px;
+  background: #005485;
+  color: #66a4c7;
+  height: 30px;
+  padding-right: 100px;
+  margin-left: 15px;
+  margin-top: 5px;
 }
 
-.boton_guardar{
-  margin-left: 10px;
+.input_principal{
+  border: none;
+  border-radius: 3px;
+  background: white;
+  height: 27px;
+  padding-left: 5px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
 
+#guardar{
+  border: none;
+  background: #519839;
+  border-radius: 3px;
+  color: white;
+  height: 30px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+.div_input{
+  background: #e2e4e6;
+  border-radius: 3px;
+  width: 185px;
+  height: 73px;
+  margin-left: 8px;
+
+}
+
+h4{
+  padding-left: 10px;
 }
