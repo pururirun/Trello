@@ -68,6 +68,45 @@ h1{
 
 }
 
+.div_texto{
+  background: white;
+  border-radius: 3px;
+  margin-left: 10px;
+  height: 27px;
+  width: 180px;
+}
+
 h4{
   padding-left: 10px;
+}
+
+#guardar_2{
+  display: block;
+  border: none;
+  background: #519839;
+  border-radius: 3px;
+  color: white;
+  height: 30px;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+.div_input_2{
+  display: inline-block;
+  background: #e2e4e6;
+  border-radius: 3px;
+  width: 185px;
+  height: 73px;
+  margin-left: 8px;
+  margin-top: 10px;
+}
+
+.input_clone{
+  border: none;
+  border-radius: 3px;
+  background: white;
+  height: 27px;
+  padding-left: 5px;
+  margin-left: 5px;
+  margin-top: 5px;
 }
